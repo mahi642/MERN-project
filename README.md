@@ -1,4 +1,4 @@
-# MERN Stack Project:  Chat App
+# MERN Stack Project:  Connect  - A char app
 
 
 
